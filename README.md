@@ -1,4 +1,7 @@
 # vue-todo
+Study Project By 캡틴판교
+
+https://www.inflearn.com/course/vue-pwa-vue-js-%EC%A4%91%EA%B8%89/dashboard
 
 ## Project setup
 ```
